@@ -1,4 +1,4 @@
-# learning_git
+#Git and Github Course
 
 ##This repo was used to learn how to use git
 
